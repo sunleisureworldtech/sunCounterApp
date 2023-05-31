@@ -1,0 +1,12 @@
+import { CapacitorConfig } from '@capacitor/cli';
+
+const config: CapacitorConfig = {
+  appId: 'com.sunleisureworld.sunApp',
+  appName: 'sunApp',
+  webDir: 'www',
+  bundledWebRuntime: false
+
+  
+};
+
+export default config;

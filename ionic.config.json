@@ -1,0 +1,7 @@
+{
+  "name": "sunApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
